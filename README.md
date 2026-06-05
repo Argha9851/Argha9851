@@ -1,6 +1,6 @@
 # Hi, I'm Arghadeep Pandit 👋
 
-🎓 B.Tech in Electronics & Communication Engineering @ IEM Kolkata (GPA: 8/10)
+🎓 B.Tech in Electronics & Communication Engineering @ IEM Kolkata (GPA: 7.9/10)
 📍 Kolkata, West Bengal, India
 
 ## 🔧 Technical Skills
