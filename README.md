@@ -4,7 +4,7 @@
 📍 Kolkata, West Bengal, India
 
 ## 🔧 Technical Skills
-- **Languages:** Python, Java, C, SQL
+- **Languages:** Java, Python, C, SQL
 - **VLSI/Digital Design:** Cadence Virtuoso, Vivado, LTSpice
 - **Embedded Systems:** Arduino, Raspberry Pi, ESP32 
 - **RF & Antenna Design:** CST Studio Suite
